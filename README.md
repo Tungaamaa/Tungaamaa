@@ -1,13 +1,13 @@
                                                     👋 Hi, I’m @Tungaamaa
 
   
-- 👀 I’m interested in 
-- 🌱 I’m currently learning react, node.js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in React.js
+- 🌱 I’m currently learning mongodb, node.js
+- 💞️ I’m looking to collaborate on online meditation app
 - 📫 How to reach me
     - Email: tungaamaa951@gmail.com
     - LinkedIn: Tungaamaa Gerel
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
 <!---
