@@ -1,8 +1,7 @@
                                                     👋 Hi, I’m @Tungaamaa
 
   
-- 👀 I’m interested in React.js
-- 🌱 I’m currently learning mongodb, node.js
+- 👀 I’m interested in Next.js
 - 💞️ I’m looking to collaborate on online meditation app
 - 📫 How to reach me
     - Email: tungaamaa951@gmail.com
